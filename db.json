@@ -177,7 +177,7 @@
       "https://i.dummyjson.com/data/products/10/3.jpg",
       "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
     ]
-  },
+  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
